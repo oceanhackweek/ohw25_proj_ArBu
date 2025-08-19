@@ -25,8 +25,17 @@ initialize_argo() # Take some minutes to download the global Index (need multipl
 # Set limits near Gulf of Mexico from a given hurricane time
 lat_lim=c(15, 30)
 lon_lim=c(-98, -80)
+
+#Hurricane Milton: 
+hurricane_name = 'Milton'
 start_date="2021-9-01"
 end_date="2021-11-01"
+
+#Insert info for additional hurricanes: 
+hurricane_name = ''
+start_date=""
+end_date=""
+
 
 # Select profiles based on those limits with specified sensor (I chose oxygen since most BGC floats have this sensor)
 
@@ -91,10 +100,12 @@ float_map = ggplot(all_data, mapping=aes(x=LONGITUDE, y=LATITUDE)) +
         axis.text.y = element_text(size=20) ) +
   labs(x =expression (Longitude~"("~"°"~E~")"),
        y =expression (Latitude~"("~"°"~N~")"),
-       title = "Float Trajectory") +
+       title = paste0("Float Profiles During Hurricane ",hurricane_name)) +
   theme(legend.text = element_text(size =20))+
   theme(legend.title=element_blank())+
   theme(plot.title = element_text(size = 20))
 float_map
+
+ggsave(paste0("~/shared-public/OHW25/ArBu_proj_shared/floats/trajectory_images/",hurricane_name,"_float_trajectory_map.jpg", float_map, width = 30, height = 24, units = "cm", dpi = 400)
 
 
