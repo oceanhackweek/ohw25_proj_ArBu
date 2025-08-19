@@ -1,8 +1,6 @@
-# ohwyy_proj_template
+# ohw25_proj_ArBu
 
-Template for starting Oceanhackweek project repos. 
-
-This repo is an example of how teams can structure their project repositories and format their project README.md file, but feel free to adapt as suits your needs.
+2025 Ocean Hackweek project analyzing Argo float and buoy data to visualize biogeochemical signals during hurricanes. 
 
 **Folder Structure**
 
@@ -27,16 +25,16 @@ You can start with a simple structure and as you progress you can refine it to c
 
 | Name                | Role                |
 |---------------------|---------------------|
-| Participant 1       | Project Facilitator |
-| Participant 2       | Participant         |
-| Participant 3       | Participant         |
+| Stevie Walker       | Participant         |
+| DeMarcus Robinson   | Participant         |
+| Joohyeun Kim        | Participant         |
 
 ## Planning
 
 * Initial idea: "short description"
 * Ideation jam board: Add link
 * Ideation Presentation: Add link
-* Slack channel: ohw25_proj_name
+* Slack channel: ohw25_proj_ArBu
 * Project google drive: Add link
 * Final presentation: Add link
 
