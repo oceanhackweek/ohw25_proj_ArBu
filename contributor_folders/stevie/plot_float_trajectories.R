@@ -27,14 +27,14 @@ lat_lim=c(15, 30)
 lon_lim=c(-98, -80)
 
 #Hurricane Milton: 
-hurricane_name = 'Milton'
-start_date="2021-9-01"
-end_date="2021-11-01"
+# hurricane_name = 'Milton'
+# start_date="2021-9-01"
+# end_date="2021-11-01"
 
 #Insert info for additional hurricanes: 
-hurricane_name = ''
-start_date=""
-end_date=""
+hurricane_name = 'Ida'
+start_date="2021-08-15"
+end_date="2021-09-30"
 
 
 # Select profiles based on those limits with specified sensor (I chose oxygen since most BGC floats have this sensor)
