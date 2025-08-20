@@ -1,0 +1,16 @@
+[workspace]
+authors = ["kimgeo <geokim365@gmail.com>"]
+channels = ["conda-forge"]
+name = "OHW25-JHK"
+platforms = ["linux-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+geopy = ">=2.4.1,<3"
+pandas = ">=2.3.1,<3"
+matplotlib = ">=3.10.5,<4"
+cartopy = ">=0.25.0,<0.26"
+argopy = ">=1.2.0,<2"
+pip = ">=25.2,<26"

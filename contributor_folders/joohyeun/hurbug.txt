@@ -1,0 +1,605 @@
+Loading IBTrACS CSV file...
+Parsing datetime and filtering for 2023 season...
+Total storms found for 2023: 75
+Grouping storm data by name...
+
+[1/75] Processing storm: ADRIAN
+Calculating bounding box and time window...
+   → Lat range: 14.20 to 21.20
+   → Lon range: -123.40 to -103.50
+   → Time window: 2023-06-26 to 2023-07-05
+Fetching Argo profiles from Argopy...
+Skipping ADRIAN due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[2/75] Processing storm: ARLENE
+Calculating bounding box and time window...
+   → Lat range: 22.30 to 29.00
+   → Lon range: -87.50 to -82.00
+   → Time window: 2023-05-30 to 2023-06-05
+Fetching Argo profiles from Argopy...
+Skipping ARLENE due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[3/75] Processing storm: ASHLEY
+Calculating bounding box and time window...
+   → Lat range: -18.00 to -8.40
+   → Lon range: 70.80 to 87.20
+   → Time window: 2022-09-24 to 2022-09-30
+Fetching Argo profiles from Argopy...
+Skipping ASHLEY due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[4/75] Processing storm: BALITA
+Calculating bounding box and time window...
+   → Lat range: -17.60 to -6.00
+   → Lon range: 83.70 to 90.50
+   → Time window: 2022-10-02 to 2022-10-11
+Fetching Argo profiles from Argopy...
+Skipping BALITA due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[5/75] Processing storm: BEATRIZ
+Calculating bounding box and time window...
+   → Lat range: 12.20 to 20.20
+   → Lon range: -105.60 to -95.30
+   → Time window: 2023-06-28 to 2023-07-02
+Fetching Argo profiles from Argopy...
+Skipping BEATRIZ due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[6/75] Processing storm: BIPARJOY
+Calculating bounding box and time window...
+   → Lat range: 9.30 to 27.30
+   → Lon range: 64.90 to 77.00
+   → Time window: 2023-06-04 to 2023-06-20
+Fetching Argo profiles from Argopy...
+Skipping BIPARJOY due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[7/75] Processing storm: BOLAVEN
+Calculating bounding box and time window...
+   → Lat range: 7.00 to 46.70
+   → Lon range: 141.80 to 195.60
+   → Time window: 2023-10-05 to 2023-10-17
+Fetching Argo profiles from Argopy...
+Skipping BOLAVEN due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[8/75] Processing storm: BRET
+Calculating bounding box and time window...
+   → Lat range: 9.70 to 14.50
+   → Lon range: -71.90 to -36.30
+   → Time window: 2023-06-18 to 2023-06-25
+Fetching Argo profiles from Argopy...
+Skipping BRET due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[9/75] Processing storm: CALVIN
+Calculating bounding box and time window...
+   → Lat range: 9.40 to 18.90
+   → Lon range: -158.70 to -97.00
+   → Time window: 2023-07-09 to 2023-07-20
+Fetching Argo profiles from Argopy...
+Skipping CALVIN due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[10/75] Processing storm: CHENESO
+Calculating bounding box and time window...
+   → Lat range: -35.70 to -6.40
+   → Lon range: 40.30 to 82.00
+   → Time window: 2023-01-12 to 2023-01-31
+Fetching Argo profiles from Argopy...
+Skipping CHENESO due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[11/75] Processing storm: CINDY
+Calculating bounding box and time window...
+   → Lat range: 9.40 to 23.50
+   → Lon range: -60.90 to -38.90
+   → Time window: 2023-06-21 to 2023-06-27
+Fetching Argo profiles from Argopy...
+Skipping CINDY due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[12/75] Processing storm: DAMREY
+Calculating bounding box and time window...
+   → Lat range: 15.40 to 47.20
+   → Lon range: 143.20 to 183.10
+   → Time window: 2023-08-20 to 2023-08-31
+Fetching Argo profiles from Argopy...
+Skipping DAMREY due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[13/75] Processing storm: DARIAN
+Calculating bounding box and time window...
+   → Lat range: -34.40 to -7.40
+   → Lon range: 67.20 to 99.00
+   → Time window: 2022-12-11 to 2023-01-01
+Fetching Argo profiles from Argopy...
+Skipping DARIAN due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[14/75] Processing storm: DINGANI
+Calculating bounding box and time window...
+   → Lat range: -33.70 to -10.70
+   → Lon range: 66.20 to 100.60
+   → Time window: 2023-01-30 to 2023-02-17
+Fetching Argo profiles from Argopy...
+Skipping DINGANI due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[15/75] Processing storm: DOKSURI
+Calculating bounding box and time window...
+   → Lat range: 11.70 to 38.40
+   → Lon range: 111.80 to 134.70
+   → Time window: 2023-07-19 to 2023-08-01
+Fetching Argo profiles from Argopy...
+Skipping DOKSURI due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[16/75] Processing storm: DON
+Calculating bounding box and time window...
+   → Lat range: 30.20 to 51.40
+   → Lon range: -56.50 to -23.50
+   → Time window: 2023-07-10 to 2023-07-26
+Fetching Argo profiles from Argopy...
+Skipping DON due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[17/75] Processing storm: DORA
+Calculating bounding box and time window...
+   → Lat range: 10.40 to 38.10
+   → Lon range: 165.00 to 258.40
+   → Time window: 2023-07-30 to 2023-08-23
+Fetching Argo profiles from Argopy...
+Skipping DORA due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[18/75] Processing storm: ELLIE
+Calculating bounding box and time window...
+   → Lat range: -22.10 to -9.40
+   → Lon range: 121.80 to 132.30
+   → Time window: 2022-12-20 to 2023-01-09
+Fetching Argo profiles from Argopy...
+Skipping ELLIE due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[19/75] Processing storm: EMILY
+Calculating bounding box and time window...
+   → Lat range: 14.40 to 33.40
+   → Lon range: -50.70 to -31.90
+   → Time window: 2023-08-17 to 2023-08-26
+Fetching Argo profiles from Argopy...
+Skipping EMILY due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[20/75] Processing storm: ENALA
+Calculating bounding box and time window...
+   → Lat range: -30.20 to -7.90
+   → Lon range: 65.80 to 95.10
+   → Time window: 2023-02-17 to 2023-03-02
+Fetching Argo profiles from Argopy...
+Skipping ENALA due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[21/75] Processing storm: EUGENE
+Calculating bounding box and time window...
+   → Lat range: 14.20 to 28.80
+   → Lon range: -123.90 to -102.60
+   → Time window: 2023-08-03 to 2023-08-11
+Fetching Argo profiles from Argopy...
+Skipping EUGENE due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[22/75] Processing storm: FABIEN
+Calculating bounding box and time window...
+   → Lat range: -24.00 to -1.20
+   → Lon range: 67.50 to 89.00
+   → Time window: 2023-05-11 to 2023-05-26
+Fetching Argo profiles from Argopy...
+Skipping FABIEN due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[23/75] Processing storm: FERNANDA
+Calculating bounding box and time window...
+   → Lat range: 12.00 to 18.20
+   → Lon range: -169.10 to -110.80
+   → Time window: 2023-08-11 to 2023-08-25
+Fetching Argo profiles from Argopy...
+Skipping FERNANDA due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[24/75] Processing storm: FRANKLIN
+Calculating bounding box and time window...
+   → Lat range: 11.80 to 49.60
+   → Lon range: -72.40 to -15.00
+   → Time window: 2023-08-18 to 2023-09-10
+Fetching Argo profiles from Argopy...
+Skipping FRANKLIN due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[25/75] Processing storm: FREDDY
+Calculating bounding box and time window...
+   → Lat range: -25.10 to -10.10
+   → Lon range: 30.40 to 120.10
+   → Time window: 2023-02-03 to 2023-03-14
+Fetching Argo profiles from Argopy...
+Skipping FREDDY due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[26/75] Processing storm: GABRIELLE
+Calculating bounding box and time window...
+   → Lat range: -43.70 to -10.80
+   → Lon range: 151.60 to 187.40
+   → Time window: 2023-02-04 to 2023-02-16
+Fetching Argo profiles from Argopy...
+Skipping GABRIELLE due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[27/75] Processing storm: GERT
+Calculating bounding box and time window...
+   → Lat range: 13.70 to 40.40
+   → Lon range: -61.20 to -45.60
+   → Time window: 2023-08-18 to 2023-09-05
+Fetching Argo profiles from Argopy...
+Skipping GERT due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[28/75] Processing storm: GREG
+Calculating bounding box and time window...
+   → Lat range: 10.00 to 13.20
+   → Lon range: -163.00 to -137.20
+   → Time window: 2023-08-13 to 2023-08-19
+Fetching Argo profiles from Argopy...
+Skipping GREG due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[29/75] Processing storm: GUCHOL
+Calculating bounding box and time window...
+   → Lat range: 10.70 to 41.40
+   → Lon range: 128.90 to 184.30
+   → Time window: 2023-06-03 to 2023-06-18
+Fetching Argo profiles from Argopy...
+Skipping GUCHOL due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[30/75] Processing storm: HAIKUI
+Calculating bounding box and time window...
+   → Lat range: 17.10 to 24.70
+   → Lon range: 108.40 to 145.40
+   → Time window: 2023-08-26 to 2023-09-11
+Fetching Argo profiles from Argopy...
+Skipping HAIKUI due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[31/75] Processing storm: HALE
+Calculating bounding box and time window...
+   → Lat range: -40.30 to -17.10
+   → Lon range: 141.00 to 180.60
+   → Time window: 2023-01-03 to 2023-01-12
+Fetching Argo profiles from Argopy...
+Skipping HALE due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[32/75] Processing storm: HAMOON
+Calculating bounding box and time window...
+   → Lat range: 11.40 to 23.70
+   → Lon range: 84.80 to 93.50
+   → Time window: 2023-10-19 to 2023-10-26
+Fetching Argo profiles from Argopy...
+Skipping HAMOON due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[33/75] Processing storm: HAROLD
+Calculating bounding box and time window...
+   → Lat range: 23.70 to 30.70
+   → Lon range: -104.30 to -88.20
+   → Time window: 2023-08-20 to 2023-08-24
+Fetching Argo profiles from Argopy...
+Skipping HAROLD due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[34/75] Processing storm: HERMAN
+Calculating bounding box and time window...
+   → Lat range: -21.00 to -9.40
+   → Lon range: 95.00 to 108.20
+   → Time window: 2023-03-26 to 2023-04-05
+Fetching Argo profiles from Argopy...
+Skipping HERMAN due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[35/75] Processing storm: HILARY
+Calculating bounding box and time window...
+   → Lat range: 10.90 to 32.40
+   → Lon range: -117.10 to -99.80
+   → Time window: 2023-08-15 to 2023-08-21
+Fetching Argo profiles from Argopy...
+Skipping HILARY due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[36/75] Processing storm: IDALIA
+Calculating bounding box and time window...
+   → Lat range: 18.80 to 46.20
+   → Lon range: -87.80 to -56.50
+   → Time window: 2023-08-25 to 2023-09-09
+Fetching Argo profiles from Argopy...
+Skipping IDALIA due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[37/75] Processing storm: ILSA
+Calculating bounding box and time window...
+   → Lat range: -24.00 to -6.10
+   → Lon range: 117.70 to 136.40
+   → Time window: 2023-04-04 to 2023-04-16
+Fetching Argo profiles from Argopy...
+Skipping ILSA due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[38/75] Processing storm: IRENE
+Calculating bounding box and time window...
+   → Lat range: -29.40 to -14.20
+   → Lon range: 156.30 to 181.20
+   → Time window: 2023-01-14 to 2023-01-21
+Fetching Argo profiles from Argopy...
+Skipping IRENE due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[39/75] Processing storm: IRWIN
+Calculating bounding box and time window...
+   → Lat range: 14.50 to 20.70
+   → Lon range: -142.40 to -116.90
+   → Time window: 2023-08-25 to 2023-09-04
+Fetching Argo profiles from Argopy...
+Skipping IRWIN due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[40/75] Processing storm: JELAWAT
+Calculating bounding box and time window...
+   → Lat range: 2.70 to 8.70
+   → Lon range: 124.10 to 141.60
+   → Time window: 2023-12-13 to 2023-12-19
+Fetching Argo profiles from Argopy...
+Skipping JELAWAT due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[41/75] Processing storm: JOSE
+Calculating bounding box and time window...
+   → Lat range: 26.70 to 38.40
+   → Lon range: -53.50 to -48.80
+   → Time window: 2023-08-28 to 2023-09-02
+Fetching Argo profiles from Argopy...
+Skipping JOSE due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[42/75] Processing storm: JOVA
+Calculating bounding box and time window...
+   → Lat range: 11.20 to 25.80
+   → Lon range: -141.00 to -101.80
+   → Time window: 2023-09-03 to 2023-09-15
+Fetching Argo profiles from Argopy...
+Skipping JOVA due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[43/75] Processing storm: JUDY
+Calculating bounding box and time window...
+   → Lat range: -31.30 to -11.20
+   → Lon range: 167.10 to 206.00
+   → Time window: 2023-02-23 to 2023-03-06
+Fetching Argo profiles from Argopy...
+Skipping JUDY due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[44/75] Processing storm: KATIA
+Calculating bounding box and time window...
+   → Lat range: 10.80 to 29.30
+   → Lon range: -50.20 to -20.30
+   → Time window: 2023-08-29 to 2023-09-16
+Fetching Argo profiles from Argopy...
+Skipping KATIA due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[45/75] Processing storm: KENNETH
+Calculating bounding box and time window...
+   → Lat range: 12.20 to 24.50
+   → Lon range: -130.40 to -110.70
+   → Time window: 2023-09-17 to 2023-09-25
+Fetching Argo profiles from Argopy...
+Skipping KENNETH due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[46/75] Processing storm: KEVIN
+Calculating bounding box and time window...
+   → Lat range: -40.70 to -10.80
+   → Lon range: 148.30 to 199.50
+   → Time window: 2023-02-26 to 2023-03-09
+Fetching Argo profiles from Argopy...
+Skipping KEVIN due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[47/75] Processing storm: KHANUN
+Calculating bounding box and time window...
+   → Lat range: 7.90 to 40.10
+   → Lon range: 123.10 to 142.30
+   → Time window: 2023-07-25 to 2023-08-12
+Fetching Argo profiles from Argopy...
+Skipping KHANUN due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[48/75] Processing storm: KIROGI
+Calculating bounding box and time window...
+   → Lat range: 9.40 to 33.10
+   → Lon range: 130.90 to 158.50
+   → Time window: 2023-08-28 to 2023-09-08
+Fetching Argo profiles from Argopy...
+Skipping KIROGI due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[49/75] Processing storm: KOINU
+Calculating bounding box and time window...
+   → Lat range: 13.20 to 23.20
+   → Lon range: 110.30 to 144.80
+   → Time window: 2023-09-26 to 2023-10-11
+Fetching Argo profiles from Argopy...
+Skipping KOINU due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[50/75] Processing storm: LAN
+Calculating bounding box and time window...
+   → Lat range: 22.30 to 50.20
+   → Lon range: 133.70 to 155.30
+   → Time window: 2023-08-05 to 2023-08-19
+Fetching Argo profiles from Argopy...
+Skipping LAN due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[51/75] Processing storm: LEE
+Calculating bounding box and time window...
+   → Lat range: 11.20 to 54.00
+   → Lon range: -69.30 to -38.60
+   → Time window: 2023-09-04 to 2023-09-19
+Fetching Argo profiles from Argopy...
+Skipping LEE due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[52/75] Processing storm: LIDIA
+Calculating bounding box and time window...
+   → Lat range: 10.20 to 25.50
+   → Lon range: -113.80 to -99.50
+   → Time window: 2023-10-02 to 2023-10-12
+Fetching Argo profiles from Argopy...
+Skipping LIDIA due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[53/75] Processing storm: MARGOT
+Calculating bounding box and time window...
+   → Lat range: 14.50 to 38.80
+   → Lon range: -44.80 to -25.00
+   → Time window: 2023-09-06 to 2023-09-19
+Fetching Argo profiles from Argopy...
+Skipping MARGOT due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[54/75] Processing storm: MAWAR
+Calculating bounding box and time window...
+   → Lat range: 3.40 to 35.10
+   → Lon range: 124.00 to 151.90
+   → Time window: 2023-05-17 to 2023-06-04
+Fetching Argo profiles from Argopy...
+Skipping MAWAR due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[55/75] Processing storm: MAX
+Calculating bounding box and time window...
+   → Lat range: 12.80 to 18.90
+   → Lon range: -102.60 to -98.90
+   → Time window: 2023-10-07 to 2023-10-11
+Fetching Argo profiles from Argopy...
+Skipping MAX due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[56/75] Processing storm: MICHAUNG
+Calculating bounding box and time window...
+   → Lat range: 6.50 to 19.30
+   → Lon range: 79.10 to 89.00
+   → Time window: 2023-11-29 to 2023-12-07
+Fetching Argo profiles from Argopy...
+Skipping MICHAUNG due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[57/75] Processing storm: MIDHILI
+Calculating bounding box and time window...
+   → Lat range: 8.90 to 24.70
+   → Lon range: 85.50 to 95.10
+   → Time window: 2023-11-12 to 2023-11-19
+Fetching Argo profiles from Argopy...
+Skipping MIDHILI due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[58/75] Processing storm: MOCHA
+Calculating bounding box and time window...
+   → Lat range: 6.60 to 26.10
+   → Lon range: 87.00 to 98.80
+   → Time window: 2023-05-07 to 2023-05-16
+Fetching Argo profiles from Argopy...
+Skipping MOCHA due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[59/75] Processing storm: NIGEL
+Calculating bounding box and time window...
+   → Lat range: 12.60 to 62.50
+   → Lon range: -56.20 to -17.30
+   → Time window: 2023-09-14 to 2023-09-27
+Fetching Argo profiles from Argopy...
+Skipping NIGEL due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[60/75] Processing storm: NORMA
+Calculating bounding box and time window...
+   → Lat range: 11.40 to 25.70
+   → Lon range: -111.30 to -103.40
+   → Time window: 2023-10-16 to 2023-10-24
+Fetching Argo profiles from Argopy...
+Skipping NORMA due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[61/75] Processing storm: OPHELIA
+Calculating bounding box and time window...
+   → Lat range: 27.50 to 39.90
+   → Lon range: -78.60 to -74.10
+   → Time window: 2023-09-20 to 2023-09-25
+Fetching Argo profiles from Argopy...
+Skipping OPHELIA due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[62/75] Processing storm: OTIS
+Calculating bounding box and time window...
+   → Lat range: 8.30 to 19.60
+   → Lon range: -101.70 to -94.80
+   → Time window: 2023-10-20 to 2023-10-26
+Fetching Argo profiles from Argopy...
+Skipping OTIS due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[63/75] Processing storm: PHILIPPE
+Calculating bounding box and time window...
+   → Lat range: 14.50 to 29.70
+   → Lon range: -67.30 to -35.60
+   → Time window: 2023-09-22 to 2023-10-07
+Fetching Argo profiles from Argopy...
+Skipping PHILIPPE due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[64/75] Processing storm: PILAR
+Calculating bounding box and time window...
+   → Lat range: 9.10 to 14.40
+   → Lon range: -118.70 to -88.40
+   → Time window: 2023-10-27 to 2023-11-08
+Fetching Argo profiles from Argopy...
+Skipping PILAR due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[65/75] Processing storm: RAMON
+Calculating bounding box and time window...
+   → Lat range: 9.10 to 16.00
+   → Lon range: -126.00 to -118.80
+   → Time window: 2023-11-20 to 2023-11-28
+Fetching Argo profiles from Argopy...
+Skipping RAMON due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[66/75] Processing storm: RINA
+Calculating bounding box and time window...
+   → Lat range: 14.60 to 27.70
+   → Lon range: -56.60 to -43.50
+   → Time window: 2023-09-27 to 2023-10-03
+Fetching Argo profiles from Argopy...
+Skipping RINA due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[67/75] Processing storm: SANBA
+Calculating bounding box and time window...
+   → Lat range: 13.60 to 22.40
+   → Lon range: 107.20 to 112.10
+   → Time window: 2023-10-14 to 2023-10-22
+Fetching Argo profiles from Argopy...
+Skipping SANBA due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[68/75] Processing storm: SANVU
+Calculating bounding box and time window...
+   → Lat range: 1.60 to 12.00
+   → Lon range: 142.60 to 161.10
+   → Time window: 2023-04-17 to 2023-04-27
+Fetching Argo profiles from Argopy...
+Skipping SANVU due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[69/75] Processing storm: SAOLA
+Calculating bounding box and time window...
+   → Lat range: 15.00 to 23.00
+   → Lon range: 108.10 to 129.00
+   → Time window: 2023-08-21 to 2023-09-05
+Fetching Argo profiles from Argopy...
+Skipping SAOLA due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[70/75] Processing storm: SEAN
+Calculating bounding box and time window...
+   → Lat range: 8.60 to 19.40
+   → Lon range: -53.20 to -29.20
+   → Time window: 2023-10-09 to 2023-10-17
+Fetching Argo profiles from Argopy...
+Skipping SEAN due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[71/75] Processing storm: TALIM
+Calculating bounding box and time window...
+   → Lat range: 14.80 to 24.40
+   → Lon range: 102.30 to 123.80
+   → Time window: 2023-07-12 to 2023-07-20
+Fetching Argo profiles from Argopy...
+Skipping TALIM due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[72/75] Processing storm: TAMMY
+Calculating bounding box and time window...
+   → Lat range: 11.90 to 34.30
+   → Lon range: -65.00 to -47.10
+   → Time window: 2023-10-17 to 2023-11-01
+Fetching Argo profiles from Argopy...
+Skipping TAMMY due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[73/75] Processing storm: TEJ
+Calculating bounding box and time window...
+   → Lat range: 8.30 to 17.40
+   → Lon range: 50.30 to 63.60
+   → Time window: 2023-10-18 to 2023-10-25
+Fetching Argo profiles from Argopy...
+Skipping TEJ due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[74/75] Processing storm: UNNAMED
+Calculating bounding box and time window...
+   → Lat range: -29.30 to 52.40
+   → Lon range: -148.80 to 165.50
+   → Time window: 2022-07-26 to 2023-11-19
+Fetching Argo profiles from Argopy...
+Skipping UNNAMED due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+
+[75/75] Processing storm: YUN-YEUNG
+Calculating bounding box and time window...
+   → Lat range: 19.30 to 36.10
+   → Lon range: 129.00 to 139.70
+   → Time window: 2023-09-03 to 2023-09-10
+Fetching Argo profiles from Argopy...
+Skipping YUN-YEUNG due to Argo fetch error: checkAccessPoint.<locals>.wrapper() got an unexpected keyword argument 'pres_min'
+[?25h
